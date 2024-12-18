@@ -118,7 +118,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  @import 'src/assets/stycle-zhou/upload';
+  @use 'src/assets/stycle-zhou/upload';
   .demo-ruleForm {
     margin-top: 20px
   }

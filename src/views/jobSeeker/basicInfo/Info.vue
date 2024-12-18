@@ -212,5 +212,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import 'src/assets/stycle-zhou/info';
+@use 'src/assets/stycle-zhou/info';
 </style>

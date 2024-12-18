@@ -1,4 +1,5 @@
-@import "var.scss";
+@use "var.scss" as *;
+@use "sass:math";
 
 .my-music {
   margin-top: $header-height;

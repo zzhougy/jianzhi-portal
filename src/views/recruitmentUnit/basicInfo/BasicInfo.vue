@@ -70,6 +70,6 @@ export default {
 
 <style lang="scss" scoped>
 
-  @import 'src/assets/stycle-zhou/setting';
+  @use 'src/assets/stycle-zhou/setting';
 
 </style>

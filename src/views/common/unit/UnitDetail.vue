@@ -105,7 +105,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import './my-music.scss';
+@use './my-music.scss';
 </style>
 <!--<style>-->
 <!--  .banner {-->

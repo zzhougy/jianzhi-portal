@@ -1,5 +1,6 @@
-@import "var";
-@import "global";
+@use "var" as *;
+@use "global" as *;
+@use "sass:math";
 
 .setting {
   margin: 30px 10%;

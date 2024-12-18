@@ -75,7 +75,7 @@ export default {
 };
 </script>
 <style>
-@import "./github-markdown.css";
+@use "./github-markdown.css";
 .markdown-body {
   box-sizing: border-box;
   margin: 0 auto;

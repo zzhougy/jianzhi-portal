@@ -1,4 +1,5 @@
-@import "var.scss";
+@use "var.scss" as *;
+@use "sass:math";
 
 // 上下左右居中
 @mixin layout(

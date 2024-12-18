@@ -1,5 +1,6 @@
-@import "var.scss";
-@import "global.scss";
+@use 'var.scss' as *;
+@use "global.scss" as *;
+@use "sass:math";
 
 .content {
   background-color: $color-white;
