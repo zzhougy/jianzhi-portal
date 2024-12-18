@@ -23,7 +23,7 @@
     "lodash": "^4.17.15",
     "markdown-loader": "^6.0.0",
     "node-fetch": "^2.6.0",
-    "node-sass": "^5.0.0",
+    "sass": "^1.32.8",
     "nprogress": "^0.2.0",
     "sass-loader": "^10.1.1",
     "vue": "^2.6.11",
