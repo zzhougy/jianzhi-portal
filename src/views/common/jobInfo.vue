@@ -44,7 +44,6 @@
             <pre class="textContent" style="font-size: 14px">{{ jobDetail.requirement }}</pre>
           </div>
           <div class="job-detail-button job-detail-block">
-            <!--      <bytedance-button @click="delivery" size="large">投递</bytedance-button>-->
             <el-button @click="delivery" size="large" v-if="loginInfo.userInfo.type != 2">申请岗位</el-button>
             <el-button @click="goToAsk" size="large" v-if="loginInfo.userInfo.type != 2">在线咨询</el-button>
           </div>

@@ -39,9 +39,6 @@
         </li>
       </router-link>
 
-      <!--      <li class="navbar-item">-->
-      <!--        <a href="https://job.bytedance.com/campus" target="_blank">校园招聘</a>-->
-      <!--      </li>-->
     </ul>
 <!--    |-->
     <div class="user">

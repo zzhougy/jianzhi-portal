@@ -247,9 +247,6 @@
                     <div class="beforeUpload" :hidden="!hasResumeAttach">
                       <h3>将你的简历拖拽到此处</h3>
                       <div class="upload-button">
-                        <!--                        <bytedance-button round type="primary"-->
-                        <!--                          >选择文件</bytedance-button-->
-                        <!--                        >-->
                         <el-button round type="primary">选择文件</el-button>
                       </div>
                       <div>
